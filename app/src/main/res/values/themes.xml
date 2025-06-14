@@ -3,8 +3,6 @@
 
     <style name="Theme.Clock" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
-
-        <item name="android:fontFamily">@font/chiron_go_round_tc</item>
     </style>
 
 </resources>
